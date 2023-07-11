@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: hidden;
+    background-color: rgb(244, 118, 118);
+}
+h1{
+    z-index: 100;
+    color: rgb(255, 233, 244);
+    text-align: center;
+    padding: 2rem;
+}
+#preloader{
+    background: url(Dog.gif) no-repeat center center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    border: none;
+    margin-top: -3rem;
+}
